@@ -1,8 +1,7 @@
-### Hi there 👋
-
 <p align="center">
+  ### Hello there 👋😾🐺
   <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴄᴀᴅᴇᴛ ɪɴ ५ϩʙᴀɴɢᴋᴏᴋ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
-  <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ᴘʏᴛʜᴏɴ</span><br>
+  <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ᴘʏᴛʜᴏɴ 🐝</span><br>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH" alt="Visitors Counter">
 </p>
