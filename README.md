@@ -1,10 +1,9 @@
 <div align="center">
   <h3>Hello there 👋😾🐺</h3>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
   <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴄᴀᴅᴇᴛ ɪɴ ५ϩʙᴀɴɢᴋᴏᴋ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
   <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ᴘʏᴛʜᴏɴ 🐝</span><br>
   <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH" alt="Visitors Counter">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH&left_color=purple&right_color=pink" alt="Visitors Counter">
 </div>
 
 <!--
