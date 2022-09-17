@@ -1,12 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 <div align="center">
   <h3>Hello there 👋😾🐺</h3>
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
   <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴄᴀᴅᴇᴛ ɪɴ ५ϩʙᴀɴɢᴋᴏᴋ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
   <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ᴘʏᴛʜᴏɴ 🐝</span><br>
   <br>
   
 </div>
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 <!--
 **P3TCH/P3TCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
