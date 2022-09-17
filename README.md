@@ -4,18 +4,9 @@
   <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
   <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ᴘʏᴛʜᴏɴ</span>
 
-  <br>
+  <br><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH" alt="Visitors Counter">
 </p>
-
-My language i use
-  - C
-  - C++
-  - Java
-  - HTML
-  - CSS
-  - Javascript
-  - Python
 
 <!--
 **P3TCH/P3TCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
