@@ -3,6 +3,7 @@
 <p align="center">
   <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
   <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ᴘʏᴛʜᴏɴ</span><br>
+  <span>ɪ'ᴍ ᴄᴀᴅᴇᴛ ɪɴ 42ʙᴀɴɢᴋᴏᴋ
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH" alt="Visitors Counter">
 </p>
