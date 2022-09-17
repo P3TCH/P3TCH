@@ -3,7 +3,7 @@
 <p align="center">
   <span>𝙸'𝚖 𝙿𝚎𝚝𝚌𝚑. 𝙰 𝙵𝚞𝚕𝚕𝚜𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚏𝚛𝚘𝚖 𝚃𝚑𝚊𝚒𝚕𝚊𝚗𝚍.</span>
   
-  <span>![](https://komarev.com/ghpvc/?username=your-github-username&color=green)</span>
+  <span align="center">![](https://komarev.com/ghpvc/?username=P3TCH&color=blue)</span>
 </p>
 
 <--
