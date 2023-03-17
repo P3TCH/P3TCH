@@ -6,7 +6,10 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH&left_color=black&right_color=pink" alt="Visitors Counter">
 </div>
 
+
 <!--
+
+[![snamesst's 42 stats](https://badge.mediaplus.ma/darkblue/snamesst?1337Badge=off&UM6P=off)](https://github.com/p3tch/badge42)
 **P3TCH/P3TCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
