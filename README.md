@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hello there 👋😾🐺</h3>
-  <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴄᴀᴅᴇᴛ ɪɴ ५ϩʙᴀɴɢᴋᴏᴋ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
-  <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴀɴᴅ ᴘʏᴛʜᴏɴ 🐝</span><br>
+  <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
+  <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴘʏᴛʜᴏɴ sᴄᴀʟᴀ 🐝</span><br>
   <br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH&left_color=black&right_color=pink" alt="Visitors Counter">
 </div>
