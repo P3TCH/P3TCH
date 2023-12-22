@@ -1,9 +1,9 @@
 <div align="center">
-  <h3>Hello there 👋😾🐺</h3>
+  <h3>Hello there 👋😾🐺 </h3>
   <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
   <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴘʏᴛʜᴏɴ sᴄᴀʟᴀ 🐝</span><br>
   <br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=P3TCH&left_color=black&right_color=pink" alt="Visitors Counter">
+  <img src="https://api.visitorbadge.io/api/visitors?path=P3TCH&label=VISITORS&labelColor=%23f6f7c4&countColor=%23ffd1e3" alt="Visitors Counter">
 </div>
 
 
