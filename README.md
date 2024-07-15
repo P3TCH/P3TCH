@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Hello there 👋😾🐺 </h3>
   <span>ɪ'ᴍ ᴘᴇᴛᴄʜ, ᴀ ғᴜʟʟsᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴅ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ ᴛʜᴀɪʟᴀɴᴅ</span><br>
-  <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴘʏᴛʜᴏɴ sᴄᴀʟᴀ 🐝</span><br>
+  <span>ᴍʏ ʟᴀɴɢᴜᴀɢᴇ → ᴄ ᴄ++ ᴊᴀᴠᴀ ᴘʜᴘ ʜᴛᴍʟ ᴄss ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴘʏᴛʜᴏɴ sᴄᴀʟᴀ ᴇᴛᴄ. 🐝</span><br>
   <br>
   <img src="https://api.visitorbadge.io/api/visitors?path=P3TCH&label=VISITORS&labelColor=%23f6f7c4&countColor=%23ffd1e3" alt="Visitors Counter">
 </div>
